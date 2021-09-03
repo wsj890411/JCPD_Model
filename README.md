@@ -46,6 +46,8 @@ Material related to our paper is available via the following links:
 
 Download (Dropbox):  https://www.dropbox.com/s/q377c1iktxwe22a/TIP_raw_dataset.zip?dl=0
 
+Download (BaiduPan):  https://pan.baidu.com/s/1l3a1pjFnEUASFnmJjc6-LA Code: 01tx
+
 ## Citation
 
 If you find this work or code is helpful in your research, please cite:
